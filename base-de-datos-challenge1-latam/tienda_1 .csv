@@ -1,9 +1,9 @@
 Producto,Categoría del Producto,Precio,Costo de envío,Fecha de Compra,Vendedor,Lugar de Compra,Calificación,Método de pago,Cantidad de cuotas,lat,lon
 Asistente virtual,Electrónicos,164300.0,6900.0,16/01/2021,Pedro Gomez,Bogotá,4,Tarjeta de crédito,8,4.60971,-74.08175
-Mesa de comedor,Muebles,192300.0,8400.0,18/05/2022,Beatriz Morales,Medellín,1,Tarjeta de crédito,4,6.25184,-75.56359
+Mesa de comedor,Hogar,192300.0,8400.0,18/05/2022,Beatriz Morales,Medellín,1,Tarjeta de crédito,4,6.25184,-75.56359
 Juego de mesa,Juguetes,209600.0,15900.0,15/03/2021,Juan Fernandez,Cartagena,1,Tarjeta de crédito,1,10.39972,-75.51444
 Microondas,Electrodomésticos,757500.0,41000.0,03/05/2022,Juan Fernandez,Cali,4,Nequi,1,3.43722,-76.5225
-Silla de oficina,Muebles,335200.0,20200.0,07/11/2020,Maria Alfonso,Medellín,5,Nequi,1,6.25184,-75.56359
+Silla de oficina,Hogar,335200.0,20200.0,07/11/2020,Maria Alfonso,Medellín,5,Nequi,1,6.25184,-75.56359
 Bloques de construcción,Juguetes,24200.0,0.0,03/12/2020,Beatriz Morales,Cali,5,Cupón,1,3.43722,-76.5225
 Muñeca bebé,Juguetes,44200.0,0.0,07/08/2021,Juan Fernandez,Bogotá,3,Nequi,1,4.60971,-74.08175
 Lavavajillas,Electrodomésticos,1189700.0,63700.0,18/06/2021,Felipe Santos,Santa Marta,5,Tarjeta de crédito,10,11.24079,-74.19904
@@ -22,7 +22,7 @@ Juego de mesa,Juguetes,138900.0,9800.0,10/01/2020,Izabela de León,Medellín,4,T
 Microondas,Electrodomésticos,435700.0,23400.0,11/03/2021,Izabela de León,Cali,5,Cupón,1,3.43722,-76.5225
 Vaso térmico,Deportes y diversión,50800.0,3100.0,11/07/2022,Camila Rivera,Bogotá,5,Tarjeta de crédito,2,4.60971,-74.08175
 Bicicleta,Deportes y diversión,514500.0,27600.0,21/04/2022,Maria Alfonso,Medellín,3,Tarjeta de crédito,10,6.25184,-75.56359
-Kit de bancas,Muebles,293500.0,13800.0,06/03/2023,Camila Rivera,Bogotá,4,Tarjeta de crédito,3,4.60971,-74.08175
+Kit de bancas,Hogar,293500.0,13800.0,06/03/2023,Camila Rivera,Bogotá,4,Tarjeta de crédito,3,4.60971,-74.08175
 Dashboards con Power BI,Libros,33500.0,0.0,14/02/2023,Pedro Gomez,Medellín,5,Tarjeta de crédito,2,6.25184,-75.56359
 Cubertería,Artículos para el hogar,47900.0,3300.0,20/03/2021,Juan Fernandez,Bogotá,5,Nequi,1,4.60971,-74.08175
 Set de ollas,Artículos para el hogar,139300.0,8100.0,06/03/2023,Beatriz Morales,Medellín,5,Nequi,1,6.25184,-75.56359
@@ -31,12 +31,12 @@ Cuerda para saltar,Deportes y diversión,18400.0,1200.0,18/07/2020,Felipe Santos
 Carrito de control remoto,Juguetes,79100.0,2400.0,15/12/2021,Ángel Rodriguez,Bogotá,4,Cupón,1,4.60971,-74.08175
 Estufa,Electrodomésticos,564200.0,28200.0,08/09/2021,Mariana Herrera,Medellín,1,Tarjeta de crédito,1,6.25184,-75.56359
 Juego de mesa,Juguetes,153900.0,6400.0,15/08/2021,Ángel Rodriguez,Medellín,3,Tarjeta de crédito,3,6.25184,-75.56359
-Cama box,Muebles,331400.0,17900.0,04/02/2020,Felipe Santos,Medellín,2,Tarjeta de crédito,5,6.25184,-75.56359
+Cama box,Hogar,331400.0,17900.0,04/02/2020,Felipe Santos,Medellín,2,Tarjeta de crédito,5,6.25184,-75.56359
 Vaso térmico,Deportes y diversión,55600.0,7700.0,26/04/2020,Juliana Costa,Bogotá,5,Tarjeta de crédito,1,4.60971,-74.08175
 Bloques de construcción,Juguetes,24700.0,1700.0,13/05/2021,Blanca Ramirez,Bogotá,5,Tarjeta de crédito,2,4.60971,-74.08175
 Vaso térmico,Deportes y diversión,62300.0,1500.0,22/05/2022,Felipe Santos,Medellín,3,Tarjeta de crédito,1,6.25184,-75.56359
 Impresora,Electrónicos,300200.0,16200.0,16/08/2021,Blanca Ramirez,Bogotá,5,Tarjeta de crédito,8,4.60971,-74.08175
-Mesa de noche,Muebles,305400.0,16700.0,31/07/2021,Camila Rivera,Cali,5,Tarjeta de crédito,3,3.43722,-76.5225
+Mesa de noche,Hogar,305400.0,16700.0,31/07/2021,Camila Rivera,Cali,5,Tarjeta de crédito,3,3.43722,-76.5225
 Dashboards con Power BI,Libros,30500.0,7500.0,17/08/2020,Ángel Rodriguez,Bogotá,5,Tarjeta de crédito,3,4.60971,-74.08175
 Cama box,Muebles,327200.0,15600.0,21/09/2021,Mariana Herrera,Villavicencio,5,Tarjeta de crédito,1,4.142,-73.62664
 Auriculares,Electrónicos,68300.0,1800.0,16/09/2022,Rafael Acosta,Cali,5,Cupón,1,3.43722,-76.5225
