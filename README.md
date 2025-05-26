@@ -55,7 +55,7 @@ Finalmente, se presenta un **informe ejecutivo** con conclusiones basadas en tod
 * Pandas
 * Matplotlib
 * Google Colab
-*seaborn
+* Seaborn
 
 ---
 
