@@ -10,14 +10,26 @@ Analizar diferentes dimensiones de datos para responder a la pregunta:
 
 > ¿A cuál tienda debería vender el Sr. Juan sus productos?
 
-Para eso, se exploran los siguientes aspectos:
+## 🗂️ Estructura del Análisis
 
-* Ingreso total por tienda
-* Ventas por categoría
-* Calificaciones promedio de clientes
-* Productos más y menos vendidos
-* Valor promedio del envío
-* Análisis geográfico (opcional)
+El análisis se desarrolló en 5 secciones clave:
+
+1. **Ingreso Total por Tienda**  
+   Se calculó el total de ingresos por tienda y se visualizó mediante un gráfico de barras.
+
+2. **Ventas por Categoría**  
+   Se analizaron las categorías de productos más vendidas, con apoyo de gráficos de barras y barras apiladas.
+
+3. **Valoración Promedio por Tienda**  
+   Se calculó el promedio de calificaciones otorgadas por los clientes a cada tienda, visualizado con gráficos de barra y torta.
+
+4. **Productos Más y Menos Vendidos**  
+   Se identificaron los productos más y menos vendidos en cada tienda y se representaron gráficamente.
+
+5. **Valor de Envío Promedio por Tienda**  
+   Se analizó el costo promedio de envío por tienda mediante gráficos de barra y de líneas.
+
+Finalmente, se presenta un **informe ejecutivo** con conclusiones basadas en todos los análisis anteriores.
 
 ---
 
@@ -25,15 +37,13 @@ Para eso, se exploran los siguientes aspectos:
 
 ```bash
 .
-├── AluraStoreLatam.ipynb        # Notebook principal del análisis
-├── tienda_1.csv                 # Datos de la Tienda 1
-├── tienda_2.csv                 # Datos de la Tienda 2
-├── tienda_3.csv                 # Datos de la Tienda 3
-├── tienda_4.csv                 # Datos de la Tienda 4
+├── CH_AnalisisTienda.ipynb      # Notebook principal del análisis
 ├── README.md                    # Este archivo
-
-
---- Por Actualizar---
+├── base-de-datos-challenge1-latam
+    ├── tienda_1.csv                 # Datos de la Tienda 1
+    ├── tienda_2.csv                 # Datos de la Tienda 2
+    ├── tienda_3.csv                 # Datos de la Tienda 3
+    ├── tienda_4.csv                 # Datos de la Tienda 4
 
 ```
 
@@ -45,6 +55,7 @@ Para eso, se exploran los siguientes aspectos:
 * Pandas
 * Matplotlib
 * Google Colab
+*seaborn
 
 ---
 
@@ -90,8 +101,11 @@ El notebook contiene visualizaciones, código modularizado por bloques y conclus
 ## 📚 Recursos
 
 * [Alura - Programa Oracle Next Education](https://www.aluracursos.com/)
-* [Artículo sobre cómo crear un README increíble](https://www.aluracursos.com/blog/c%C3%B3mo-crear-un-readme-increible)
+* [Artículo sobre cómo crear un README increíble](https://www.aluracursos.com/blog/como-escribir-un-readme-increible-en-tu-github)
 
 ---
+
+👩‍💻 Autora
+[Pamela Ormeño](https://linkedin.com/in/pamelaormeno)
 
 🚀 *Proyecto realizado como parte del reto de formación en Ciencia de Datos*
