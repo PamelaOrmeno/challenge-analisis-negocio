@@ -94,7 +94,8 @@ pip install pandas matplotlib
 
 ## 📄 Conclusión
 
-El notebook contiene visualizaciones, código modularizado por bloques y conclusiones para cada métrica analizada. Se recomienda revisar el informe final incluido al final del notebook para conocer la tienda sugerida con base en los datos.
+El análisis completo se encuentra en el archivo [`CH_AnalisisTienda.ipynb`](./CH_AnalisisTienda.ipynb), incluyendo un informe ejecutivo final con visualizaciones y recomendaciones para decidir a qué tienda debería vender Don Juan sus productos, basado en datos de ingresos, categorías más vendidas, valoraciones, stock y costos de envío.
+
 
 ---
 
